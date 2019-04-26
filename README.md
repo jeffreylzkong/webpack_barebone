@@ -1,5 +1,5 @@
 # webpack_barebone
-Barebone Miminum setup package with Webpack 4 and Babel 7
+Barebone Miminum setup package with Webpack 4, LESS and Babel 7
 
 ## Install
 npm install
